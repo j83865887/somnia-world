@@ -1,6 +1,12 @@
-# vinext-starter
+# Somnia World
 
-A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
+Visit the live Somnia World app: [https://somnia-world.j83865887.chatgpt.site/somnia](https://somnia-world.j83865887.chatgpt.site/somnia)
+
+This repository contains the source code for Somnia World. The live app is hosted separately from this GitHub repository, so changes pushed here may need to be published separately to appear on the live site.
+
+## Developer setup
+
+The project is built on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
 
 ## Prerequisites
 
